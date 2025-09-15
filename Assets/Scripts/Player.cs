@@ -67,7 +67,7 @@ public class Player : MonoBehaviour
                 animator.SetInteger("AnimState", 2);
                 
 
-                
+
             }
             else if (absVelY == 0 && !standing) //Check if the player is not moving vertically and set the animation state accordingly
             {
@@ -107,7 +107,7 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isJumping = false;
-            canJump = true;
+            canJump = true; 
         }
     }
 
