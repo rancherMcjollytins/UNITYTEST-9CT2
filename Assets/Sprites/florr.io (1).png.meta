@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 29b3c3ed627420b47a500552eecd7852
+guid: ff14296697779b54594910a08712ef9f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3672772599783485165
-    second: lowres ppumpkin_0
-  - first:
-      213: -1592131907055421027
-    second: lowres ppumpkin_1
-  - first:
-      213: -7256198772816283361
-    second: lowres ppumpkin_2
-  - first:
-      213: 773823514148439133
-    second: lowres ppumpkin_3
+      213: -404912667082922899
+    second: florr.io (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lowres ppumpkin_0
+      name: florr.io (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 233
-        height: 505
+        width: 2048
+        height: 2048
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,74 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: deee1e6683f48f230800000000000000
-      internalID: 3672772599783485165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: lowres ppumpkin_1
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 0
-        width: 250
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d99756c477c97e9e0800000000000000
-      internalID: -1592131907055421027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: lowres ppumpkin_2
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 0
-        width: 258
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f19f8ae39adcc4b90800000000000000
-      internalID: -7256198772816283361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: lowres ppumpkin_3
-      rect:
-        serializedVersion: 2
-        x: 767
-        y: 0
-        width: 194
-        height: 257
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5489afd26c2dba00800000000000000
-      internalID: 773823514148439133
+      spriteID: d6467791316716af0800000000000000
+      internalID: -404912667082922899
       vertices: []
       indices: 
       edges: []
@@ -209,11 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      lowres ppumpkin_0: 3672772599783485165
-      lowres ppumpkin_1: -1592131907055421027
-      lowres ppumpkin_2: -7256198772816283361
-      lowres ppumpkin_3: 773823514148439133
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
