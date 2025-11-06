@@ -52,6 +52,6 @@ as to improve the UX (user experience) by allowing them to save their settings.
 # P2 - Researching and Planning: PMI
 |Game|Plus|Minus|Implications|
 |:--:|:--:|:---:|:----------:|
-|Call Of Duty: World At War (Zombies)|    |     |            |
-|Titanfall 2 (Campaign)|||
+|www|    |     |            |
+|Titanfall 2 (Campaign)|Engaging storyline as well as a smooth, consistent movement system that allows for efficient travel. Enemy design is not overly difficult, but provides enough challenge to be a general issue for a player.|Extremely fast paced combat and movement may result in less suspense and focus during gameplay. Though this isn't a necessarily a downside due to the movement-based shooter system of titanfall, it make be less desirable in a wave defense.|
 |Borderlands 2|Heavy variety in classes/character abilites, as well as weapons, parts, stats and rarities, ensuring that players can add variety to their gameplay through the employment of different weaponry. Additionally, great settings and engaging storyline.|Somewhat repetitive gameplay (as it is a looter shooter), but balanced out by interesting quests, objectives and well designed characters and maps.|
