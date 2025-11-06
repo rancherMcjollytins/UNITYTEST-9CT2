@@ -49,9 +49,16 @@ data transmitted to and from the cloud or a local file for high scores, waves, e
 as to improve the UX (user experience) by allowing them to save their settings.
 - Additionally, a feature could include saving waves and stats.
 
+## Functional and Non-Functional Requirements   
+### Functional
+#### User Inputs, Movement Control
+    It is essential that the game can detect and read inputs from the player, and use this data to perform actions in game. Through the use of the WASD keys, the player can interact with the game, which will read the inputs in order to move characters. Mouse inputs will be detected to perform attacks, with delays and reload time inbetween. Sslashscreens and pause menus should be accessible through the escape key, and button should help navigate between scenes (game, menu, etc).       
+    
+### Non-Functional
+    In order to provide a stable and optimised game, measures must be put into place in order to reduce frame drops. For example, when new prefabs (like enemies and bullets) are created in scripts, there should be some sort of measure in place to
 # P2 - Researching and Planning: PMI
 |Game|Plus|Minus|Implications|
 |:--:|:--:|:---:|:----------:|
-|www|    |     |            |
+||    |     |            |
 |Titanfall 2 (Campaign)|Engaging storyline as well as a smooth, consistent movement system that allows for efficient travel. Enemy design is not overly difficult, but provides enough challenge to be a general issue for a player.|Extremely fast paced combat and movement may result in less suspense and focus during gameplay. Though this isn't a necessarily a downside due to the movement-based shooter system of titanfall, it make be less desirable in a wave defense.|
 |Borderlands 2|Heavy variety in classes/character abilites, as well as weapons, parts, stats and rarities, ensuring that players can add variety to their gameplay through the employment of different weaponry. Additionally, great settings and engaging storyline.|Somewhat repetitive gameplay (as it is a looter shooter), but balanced out by interesting quests, objectives and well designed characters and maps.|
