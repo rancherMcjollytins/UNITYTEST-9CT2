@@ -55,7 +55,11 @@ as to improve the UX (user experience) by allowing them to save their settings.
     It is essential that the game can detect and read inputs from the player, and use this data to perform actions in game. Through the use of the WASD keys, the player can interact with the game, which will read the inputs in order to move characters. Mouse inputs will be detected to perform attacks, with delays and reload time inbetween. Sslashscreens and pause menus should be accessible through the escape key, and button should help navigate between scenes (game, menu, etc).       
     
 ### Non-Functional
-    In order to provide a stable and optimised game, measures must be put into place in order to reduce frame drops. For example, when new prefabs (like enemies and bullets) are created in scripts, there should be some sort of measure in place to
+    In order to provide a stable and optimised game, measures must be put into place in order to reduce frame drops. For example, when new prefabs (like enemies and bullets) are created in scripts, there should be some sort of measure in place to delete prefabs and save space.
+    Additionally, the User Experience can be heightened with a clear and understandable UI, that players can easily navigate through in order to play, quit and check settings.
+
+--------------------------------------------
+
 # P2 - Researching and Planning: PMI
 |Game|Plus|Minus|Implications|
 |:--:|:--:|:---:|:----------:|
